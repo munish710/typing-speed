@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,wBACJ,CAEA,KACI,wBACJ,CAEA,WACI,wBAEJ,CACA,MACI,WACJ","file":"main.0f600b1e.chunk.css","sourcesContent":["body{\r\n    background-color:#e2f1f8;\r\n}\r\n\r\n.btn{\r\n    background-color:#ffd54f;\r\n}\r\n\r\n.btn:hover{\r\n    background-color:#ffff81;\r\n  \r\n}\r\n.time{\r\n    float:right;\r\n}"]}
